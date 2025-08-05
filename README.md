@@ -1,5 +1,5 @@
 # order-management-microservice
 
-Download
-Unzip
-Read README.md
+1. Download
+2. Unzip
+3. Read README.md
